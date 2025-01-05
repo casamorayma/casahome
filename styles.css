@@ -12,6 +12,6 @@ body {
 }
 
 img {
-    width: 75%; /* Image takes full width */
+    width: 50%; /* Image takes full width */
     height: auto; /* Maintain aspect ratio */
 }
