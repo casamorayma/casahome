@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white; /* Set the background color to white */
+}
+
+.image-container {
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+    align-items: flex-start; /* Align items at the start (top) */
+    height: 100vh; /* Full viewport height */
+    margin-top: 25vh; /* Quarter page margin at the top */
+}
+
+img {
+    width: 100%; /* Image takes full width */
+    height: auto; /* Maintain aspect ratio */
+}
