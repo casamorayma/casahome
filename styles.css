@@ -9,7 +9,7 @@ body {
     justify-content: center; /* Center the content horizontally */
     align-items: flex-start; /* Align items at the start (top) */
     height: 100vh; /* Full viewport height */
-    margin-top: 12vh; /* Quarter page margin at the top */
+    
 }
 
 img {
